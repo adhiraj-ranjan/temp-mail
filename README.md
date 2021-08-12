@@ -5,7 +5,7 @@ Note - Runs on **`python3`**
 
 ### Install Dependencies
 - requests
-- beautifulsoup
+- bs4
 
 ```
 pip install -r requirements.txt
