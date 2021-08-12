@@ -22,7 +22,6 @@ python main.py
 --> https://www.buymeacoffee.com/adhirajranjan
 
 <br/>
-<br/>
 
 ### Find Me on :
 <p align="left">
