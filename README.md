@@ -21,6 +21,8 @@ python main.py
 **`Buy Me a Coffee`**
 --> https://www.buymeacoffee.com/adhirajranjan
 
+
+
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/adhiraj-ranjan" target="_blank"><img src="https://img.shields.io/badge/Github-ADHIRAJ--RANJAN-green?style=for-the-badge&logo=github"></a>
