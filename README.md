@@ -4,3 +4,5 @@ get a temporary email, from the comfort of your terminal [ purely written in pyt
 # dependencies
 - requests
 - beautifulsoup
+
+Command - pip install -r requirements.txt
