@@ -5,6 +5,6 @@ get a temporary email, from the comfort of your terminal [ purely written in pyt
 - requests
 - beautifulsoup
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
