@@ -1,8 +1,10 @@
-# temp-mail
+# Temp-Mail
 get a temporary email, from the comfort of your terminal [ purely written in python ]
 
-# dependencies
+### Install Dependencies
 - requests
 - beautifulsoup
 
-Command - pip install -r requirements.txt
+'''
+pip install -r requirements.txt
+'''
